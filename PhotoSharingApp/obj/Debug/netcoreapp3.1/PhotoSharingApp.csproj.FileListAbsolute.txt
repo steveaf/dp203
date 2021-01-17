@@ -1,0 +1,13 @@
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.exe
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.deps.json
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.runtimeconfig.json
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.runtimeconfig.dev.json
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.dll
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.pdb
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.csprojAssemblyReference.cache
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.AssemblyInfoInputs.cache
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.AssemblyInfo.cs
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.csproj.CoreCompileInputs.cache
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.dll
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.pdb
+C:\Users\folke\OneDrive\src\repos\dp203\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.genruntimeconfig.cache

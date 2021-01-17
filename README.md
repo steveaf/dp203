@@ -6,4 +6,5 @@ This is a very simple repo with the Azure DP-203 samples from Microsoft.
 Example:
 https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/3-exercise-create-your-app?pivots=csharp
 
-Have a repo! 
+see stdp203photostorage.ps1
+![Create Storage](./images/createAZstorage.png)

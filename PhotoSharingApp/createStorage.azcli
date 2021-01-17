@@ -1,0 +1,5 @@
+# CLI used in the tutorial.  I used PowerShell.  
+# az storage account create   --name stdp203photosharingapp  --resource-group learn-2fc04852-3d7c-41ec-8cc2-df6b696ae5e5  --location westus2  --sku Standard_LRS
+
+#stdp203photosharingapp
+#stdp203photoapp
